@@ -1,15 +1,24 @@
 # Subject 2 - Git workflow
+# blahblah
+
+* BULLETS
+
+1. NUMBERS
+2. NUMBERS
+
+<span style = 'color:white; background-color:gray'> this is text </span>
 
 ###Why is this Important
 >I will be using Git and Github to share information and projects with everyone, and when you begin to work on projects together you will be using Github to coordinate.
+
 
 
 ###Lesson Plan
 * <span style = 'color:green;'>√</span> Create a Github account
 * <span style = 'color:green;'>√</span> Set up Git locally and online
 * <span style = 'color:green;'>√</span> Create a Fork
-* <span style = 'color:green;'>√</span> Create a Branch
-* <span style = 'color:green;'>√</span> Clone a Repo
+* <span style = 'color:red;'>»</span> Create a Branch
+* <span style = 'color:blue;'>?</span> Clone a Repo
 * <span style = 'color:red;'>»</span> Pull Changes for Branch
 * <span style = 'color:blue;'>?</span> Add Changes
 * <span style = 'color:blue;'>?</span> Commit Changes
